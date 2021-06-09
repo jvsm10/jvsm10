@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jvsm10
 - 👀 I’m interested in AI and Image Processing 
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on AI Projects 
+- 💞️ I’m looking to collaborate on AI, Data Science and Java Projects 
 - 📫 How to reach me: (Linkedin) https://br.linkedin.com/in/joão-victor-silva-menezes-878b8a103 || (E-mail) jvsm1010@gmail.com
 
 <!---
