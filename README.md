@@ -8,4 +8,4 @@
 jvsm10/jvsm10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>These repositores are a collection of Undergraduate's projects and some personal projects, most of them are Java systems, PHP and NodeJS websites and a prototype of a mobile app in React Native<h1> 
+<h2>These repositores are a collection of Undergraduate's projects and some personal projects, most of them are Java systems, PHP and NodeJS websites and a prototype of a mobile app in React Native<h2> 
